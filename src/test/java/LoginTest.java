@@ -19,6 +19,7 @@ public class LoginTest {
 	public void doLogin(){
 		 driver.get("https://www.google.com/");
 		 System.out.println("Hello");
+		 System.out.println("Welcome to hello world");
 	}
 	
 	@AfterTest
